@@ -49,3 +49,21 @@ Once the data is prepared, the process of training, evaluating and tuning the mo
 ## Deployment
 The last planned step is to deploy the model so that it can be used by end users. This could involve connecting it to a web application that serves as an interface and facilitates user tasks such as submitting the title and content of the news item to be reviewed.
 Because of the above, it is possible that some web stack or other technology other than python and jupyter notebook may also need to be included for the sole purpose of making the model accessible.
+
+## Additional data
+To obtain additional data and improve the quality and diversity of your dataset for your fake news detection project, the following techniques can be used:
+
+- **Web Data Extraction:** Develop scripts to extract news data from multiple online sources. This allows you to gather a wide variety of articles from different news websites.
+
+- **Crowdsourcing:** Utilize crowdsourcing platforms where individuals can contribute by labeling data. You can ask users to classify news articles as fake or real, providing you with a large-scale labeled dataset.
+
+- **Collaboration:** Establish collaborations with other organizations or researchers who may have access to relevant datasets. This allows you to expand your resources and obtain additional high-quality data.
+
+- **Data Augmentation:** Implement data augmentation techniques to generate new samples from your existing data. This may include techniques such as back translation, paraphrasing, and introducing small variations in the text.
+
+- **Social Media APIs:** Use APIs provided by social media platforms to collect news data shared on these platforms. Social media is a rich source of news and opinions that can enrich your dataset.
+
+## Ethical Considerations:
+
+When implementing artificial intelligence solutions for fake news detection, it is essential to consider a range of ethical aspects. This includes ensuring transparency and explainability of the models used, mitigating biases and ensuring fairness in the outcomes, safeguarding the privacy and personal data of users, taking responsibility for the social and cultural impact of these technologies, being transparent about the origin of the data used, and committing to ongoing evaluation and improvement of the systems. By addressing these ethical considerations, responsible and ethical use of artificial intelligence in combating fake news can be promoted, safeguarding the rights and trust of users.
+
