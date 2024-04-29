@@ -8,7 +8,7 @@ Training can introduce biases, this is an inherent effect of training data, whic
 
 ### Social impact
 
-### If our solution is used correctly, it can increase public trust in the news by verifying authenticity. That is, reducing misinformation and several of its effects such as polarization.
+If our solution is used correctly, it can increase public trust in the news by verifying authenticity. That is, reducing misinformation and several of its effects such as polarization.
 
 ### Legal aspects:
 
