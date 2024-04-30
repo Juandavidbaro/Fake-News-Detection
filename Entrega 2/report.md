@@ -1,3 +1,21 @@
+## Data Collection Strategy
+
+Due to the nature of our data we find that the best way to expand the amount of data is to combine several datasets. To apply this strategy we searched Kaggle for data structured similarly to the previous dataset and transformed some of its fields to adapt them to the required format. For example, in some cases the labels are “Fake” and “True” and in others “T” and “F”; to standardize this field we use 0 and 1.
+
+## Data preparation
+
+In this section we apply a process identical to that established in the previous report. The techniques common to natural language processing (tokenization, stopwords elimination, stemming, etc) were used.
+
+On the other hand, the formats of the fields whose format differed between the combined datasets were adapted. Most of these adaptations were made by simple mappings from one value to another determined as the standard for the given field. 
+
+## Model training and performance measurement
+
+For this iteration we chose logistic regression as the model that allows us to classify the news with an accuracy close to 96%. Another alternative we tested was the k-means algorithm with k=2. However, the performance of the latter was rather poor.
+
+Other models such as KNN, Random forest and support vector machines could be suitable. However, for these it is required to significantly decrease the dimensionality of the data. We do not rule them out because some of them could mean an improvement for the third iteration of the project, for which the dimensionality reduction is planned. 
+
+Graphics, analysis and other details about the new dataset are attached in the juypter notebook. 
+
 ## Deployment plan
 
 We propose to make the model accessible through a public website. Specifically, the site will allow to enter the basic information of a news item and determine its veracity. We expect to be able to deliver a reasonable verdict for the different news items and to include the necessary information about the system to avoid misunderstandings.
