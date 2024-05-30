@@ -126,8 +126,9 @@ To further improve model performance and explore new directions, the following l
 
 ## References
 
-- Emine Y., "Fake News Detection Datasets," Kaggle, 2021. [Online]. Available: https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets?resource=download.
-- Kaggle, "Fake News," Kaggle, 2021. [Online]. Available: https://www.kaggle.com/competitions/fake-news.
-- A. Alhindi, N. Petrak, and M. Milic-Frayling, "Where is the News? Fake News Detection on the Web," in Proc. 10th ACM Conference on Web Science, 2019.
-- J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova, "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding," in Proc. of NAACL-HLT, 2019.
-- R. Schuster, A. Tobin, and Y. Segev, "The Limits of Trust: Rethinking Trustworthy Machine Learning," in Proc. of ICML, 2020.
+- [1] E. Bozkuş. (2022, May). "Fake News Detection Datasets". Kaggle [Online]. Available: https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets?resource=download.
+- [2] W. Lifferth. (2018, January). "Fake News". Kaggle [Online]. Available: https://www.kaggle.com/competitions/fake-news.
+- [3] A. Alhindi, N. Petrak, and M. Milic-Frayling. (2019) "Where is the News? Fake News Detection on the Web". in Proc. 10th ACM Conference on Web Science.
+- [4] J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova. (2019) "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding," in Proc. of NAACL-HLT.
+- [5] R. Schuster, A. Tobin, and Y. Segev. (2020) "The Limits of Trust: Rethinking Trustworthy Machine Learning," in Proc. of ICML.
+
