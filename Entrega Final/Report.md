@@ -40,9 +40,17 @@ An EDA was conducted to understand the distribution and characteristics of the d
 
 - **Visualization of Article Distribution:** The proportions of fake and true news were graphed to gain a comprehensive overview of the data.
 
+![News Distribution](https://github.com/Juandavidbaro/Fake-News-Detection/blob/main/Entrega%20Final/Img/Distribution.png)
+
 - **Analysis of Title and Article Lengths:** The average lengths and distributions of the texts were examined to identify patterns or significant differences between fake and real news.
 
+![Title Distribution](https://github.com/Juandavidbaro/Fake-News-Detection/blob/main/Entrega%20Final/Img/Title.png)
+
+![Text Distribution](https://github.com/Juandavidbaro/Fake-News-Detection/blob/main/Entrega%20Final/Img/Text.png)
+
 - **Word Clouds:** Word clouds were generated to visualize the most frequent words in both types of news, helping identify distinctive terms that could be relevant for classification.
+
+![Word Clouds](https://github.com/Juandavidbaro/Fake-News-Detection/blob/main/Entrega%20Final/Img/Word%20Cloud.png)
 
 ## Feature Extraction
 
