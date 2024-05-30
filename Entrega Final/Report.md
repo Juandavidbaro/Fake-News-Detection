@@ -39,8 +39,6 @@ Two Kaggle datasets were used, combining fake and real news into a single datafr
 An EDA was conducted to understand the distribution and characteristics of the data:
 
 - **Visualization of Article Distribution:** The proportions of fake and true news were graphed to gain a comprehensive overview of the data.
-  
-![Article Distribution]([https://example.com/path-to-your-image.jpg](https://i.ibb.co/ySjxH2V/Distribution.png))
 
 - **Analysis of Title and Article Lengths:** The average lengths and distributions of the texts were examined to identify patterns or significant differences between fake and real news.
 
